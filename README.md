@@ -1,5 +1,11 @@
 # GestionIssues
 
+# Introduccion
+
+En este proyecto presentamos **TapeWare**, una empresa que combina la música y las redes sociales en una misma plataforma. Nuestro objetivo es ofrecer a los usuarios un espacio donde puedan escuchar, compartir y descubrir música, conectar con otras personas y dar visibilidad a nuevos artistas.
+
+# El proyecto
+
 🎵 TapeWare
 La red social donde la música conecta personas
 
@@ -48,7 +54,6 @@ A diferencia de plataformas como Spotify, TapeWare no se limita únicamente al s
 
 Escucha. Comparte. Descubre. Conecta.
 
-- DAFO
+# DAFO
 
 ![DAFO](https://github.com/SergioGonMar31/GestionIssues/blob/dafo/d92b1cf1-e71a-4944-ac71-8c2e68b302e8.png)
-
